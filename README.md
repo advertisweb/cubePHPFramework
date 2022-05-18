@@ -8,11 +8,6 @@
 * [Creenciales](#credenciales)
 * [Estructura de carpetas](#estructura-de-carpetas)
 
-* Estructura del sitio
-* Configuración básica
-* Levantando el proyecto con Docker
-* Comandos git
-
 
 ## Sobre Sitio BASE
 El sitio Base es el framework front-end de ADVERTIS basado en PHP, MySQL y Javascript para el desarrollo de portales y sitios de noticias.
